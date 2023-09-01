@@ -80,7 +80,7 @@ High level view - **Assessing the security risk of a software system from an adv
 	- Mitigate - What are we doing to defend against the threats?
 	- Validate - Have we acted on each of the previous steps?
 ---
-# Unit 3
+# $Unit 3$
 # Multi-Lateral Security:
 - Multilateral Security means **taking into consideration the security requirements of all parties involved**. **It also means considering all involved parties as potential attackers.**
 - This is especially important for open communication systems, as one cannot expect the various parties to trust each other.
