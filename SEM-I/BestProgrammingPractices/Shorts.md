@@ -1,0 +1,11 @@
+## Designing software architecture.
+- Requirements - Clear understanding of requirements -> Pros and Cons, Mind map -> connect correlated components/requirements.
+- Components - Start thinking about each components -> 
+	- Requirements with significant challenges. Some are impossible under certain assumptions.
+	- Perfect world, Drafting, Don't expect final results at first.
+- Divide & Conquer - Divide your architecture into slices 
+	- Pros, slicing cake example, **vertical slicing creates stories centered around individual features**, **Horizontal slicing reveals individual components**
+	- Agile focuses on vertical slices allows quick development. 
+	- vertical slice of e-commerce website is a "Check-Out" process.
+- Prototype - Proof of concept.
+- Non-functional requirements - Identify & quantify non function req.
