@@ -1,0 +1,5 @@
+- Lowest layer of the OSI Model.
+- Responsible for the physical connection between the devices.
+- Contains information in the form of bits. - Responsible for transmitting individual bits from one node to next.
+- When receiving data, this layer get the signal received and converts bits in the form of 0s and 1s and send them to the **Data Link layer**
+- **Functionalities of Physical Layer** : __Bit synchronization, Bit rate control, Physical topologies, Transmission Mode.__

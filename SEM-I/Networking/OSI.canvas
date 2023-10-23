@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"type":"file","file":"Data Link Layer.md","id":"0b89e7d9cc8a2b9a","x":-60,"y":-500,"width":500,"height":385,"color":"#abcfe4"},
+		{"type":"text","text":"Physical Layer","id":"76f43b63d6a3e2f1","x":-320,"y":-140,"width":165,"height":50,"color":"1"},
+		{"type":"text","text":"Data Link Layer","id":"3b55ecf3a313eac4","x":-320,"y":-260,"width":165,"height":50,"color":"#bf79d2"},
+		{"type":"text","text":"Network Layer","id":"36f3178aecb48d79","x":-320,"y":-380,"width":165,"height":50,"color":"3"},
+		{"type":"file","file":"Network Layer.md","id":"af12bc8a7329f34a","x":-920,"y":-440,"width":520,"height":325,"color":"3"},
+		{"type":"file","file":"Physical Layer.md","id":"cfeb13e4f807ae47","x":-60,"y":-60,"width":420,"height":410,"color":"#fedba9"},
+		{"type":"text","text":"Transport Layer","id":"5fa98a4fe68464b9","x":-320,"y":-500,"width":165,"height":50,"color":"4"},
+		{"type":"text","text":"Session Layer","id":"058bd80b4c196ec4","x":-320,"y":-620,"width":165,"height":50,"color":"#f9cabb"},
+		{"type":"file","file":"Session Layer.md","id":"1fbfd829d36dc8a1","x":-60,"y":-800,"width":500,"height":260,"color":"#f7ab92"},
+		{"type":"text","text":"Presentation Layer","id":"46356f27a66b5706","x":-332,"y":-760,"width":190,"height":50,"color":"#8f61e5"},
+		{"type":"file","file":"Presentation Layer.md","id":"e306cc1f1de22e1a","x":-60,"y":-1080,"width":580,"height":240,"color":"#b99cef"},
+		{"type":"file","file":"Transport Layer.md","id":"53a4504f8fb4d40a","x":-1080,"y":-800,"width":680,"height":310,"color":"#90c1a4"},
+		{"type":"text","text":"Application Layer","id":"64f167c2221de72a","x":-332,"y":-900,"width":190,"height":50,"color":"1"},
+		{"type":"file","file":"Application Layer.md","id":"5d1752f2c4e8899c","x":-920,"y":-1095,"width":520,"height":220,"color":"1"},
+		{"type":"file","file":"OSI-model.png","id":"0cd97349f5ef058b","x":-641,"y":-28,"width":241,"height":345},
+		{"type":"text","text":"**OSI** - **Open System Interconnection**\ndeveloped by ISO - **International Organization for Standardization** in year 1984.","id":"cd1506428c60e518","x":-920,"y":15,"width":180,"height":260,"color":"#f9bef7"}
+	],
+	"edges":[
+		{"id":"1e14f212797c8b63","fromNode":"cfeb13e4f807ae47","fromSide":"left","toNode":"76f43b63d6a3e2f1","toSide":"bottom","color":"#a88be2"},
+		{"id":"a2dda35ac8ea724b","fromNode":"76f43b63d6a3e2f1","fromSide":"top","toNode":"3b55ecf3a313eac4","toSide":"bottom","color":"#a88be2"},
+		{"id":"23f12b3fa857302e","fromNode":"3b55ecf3a313eac4","fromSide":"top","toNode":"36f3178aecb48d79","toSide":"bottom","color":"#a88be2"},
+		{"id":"86614ecbdd7b9165","fromNode":"36f3178aecb48d79","fromSide":"top","toNode":"5fa98a4fe68464b9","toSide":"bottom","color":"#4392ad"},
+		{"id":"e7b297a03e3ea56b","fromNode":"5fa98a4fe68464b9","fromSide":"left","toNode":"53a4504f8fb4d40a","toSide":"right","color":"#a88be2"},
+		{"id":"8aee51229b2e5b0c","fromNode":"5fa98a4fe68464b9","fromSide":"top","toNode":"1fbfd829d36dc8a1","toSide":"left","color":"#b192ee"},
+		{"id":"6401334111022160","fromNode":"0cd97349f5ef058b","fromSide":"left","toNode":"cd1506428c60e518","toSide":"right","color":"#a88be2"},
+		{"id":"13f5e609a87ba3af","fromNode":"058bd80b4c196ec4","fromSide":"top","toNode":"46356f27a66b5706","toSide":"bottom","color":"#b192ee"},
+		{"id":"f7cf21d47dc655b4","fromNode":"46356f27a66b5706","fromSide":"top","toNode":"e306cc1f1de22e1a","toSide":"left","color":"#b192ee"},
+		{"id":"d88b170ee2e0aa2f","fromNode":"64f167c2221de72a","fromSide":"top","toNode":"5d1752f2c4e8899c","toSide":"right","color":"#b192ee"},
+		{"id":"63b7ba67c80d8bd4","fromNode":"36f3178aecb48d79","fromSide":"left","toNode":"af12bc8a7329f34a","toSide":"right","color":"#a88be2"},
+		{"id":"64d97bc42c45ad74","fromNode":"3b55ecf3a313eac4","fromSide":"right","toNode":"0b89e7d9cc8a2b9a","toSide":"left","color":"#a88be2"}
+	]
+}

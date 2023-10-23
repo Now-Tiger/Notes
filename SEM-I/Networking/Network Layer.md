@@ -1,0 +1,7 @@
+- Has two main functionalities to perform.
+- One - __Breaking up segments into network packets__ and reassembling packets at the receiving end.
+- Second - __Routing packets by discovering the best path across the physical layer__.
+- Uses network address to route packets to the destination.
+- Functions of network layer:
+	- **Routing** 
+	- **Logical Addressing**

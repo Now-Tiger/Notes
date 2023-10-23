@@ -1,0 +1,3 @@
+- Used by end users, such as web browsers and email clients.
+- Provides protocols that allow software to send and receive information and present meaningful data to users. 
+- Ex. **Hypertext Transfer Protocol (HTTP), File Transfer Protocol (FTP)** etc.
